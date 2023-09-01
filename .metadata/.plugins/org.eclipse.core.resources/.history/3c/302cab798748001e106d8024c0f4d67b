@@ -1,0 +1,8 @@
+#Server port
+server.port=8888
+ 
+#Git repo location.
+#spring.cloud.config.server.git.uri=/Users/Shalini/Desktop/Microservices/config-server-repo
+
+spring.cloud.config.server.git.uri=https://github.com/shalini06mittal/CloudConfigRepo.git
+
